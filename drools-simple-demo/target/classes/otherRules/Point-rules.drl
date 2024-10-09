@@ -1,4 +1,4 @@
-package rules
+package otherRules
 
 import com.neo.drools.entity.Order
 

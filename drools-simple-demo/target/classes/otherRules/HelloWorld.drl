@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package rules
+package otherRules
  
 import com.neo.drools.HelloWorldExample.Message;
 

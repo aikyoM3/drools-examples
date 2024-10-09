@@ -48,8 +48,7 @@ public class HelloWorldExample {
         // Once the session is created, the application can interact with it
         // In this case it is setting a global as defined in the
         // org/drools/examples/helloworld/HelloWorld.drl file
-        ksession.setGlobal( "list",
-                            new ArrayList<Object>() );
+        ksession.setGlobal( "list", new ArrayList<Object>() );
 
         // The application can also setup listeners
         ksession.addEventListener( new DebugAgendaEventListener() );

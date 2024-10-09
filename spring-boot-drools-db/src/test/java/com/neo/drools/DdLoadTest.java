@@ -16,6 +16,7 @@ import java.io.UnsupportedEncodingException;
 
 
 
+@SuppressWarnings("deprecation")
 public class DdLoadTest {
 
 	public static void main(String[] args) {
